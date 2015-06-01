@@ -16,6 +16,8 @@ public class JavaGithub {
      */
     public static void main(String[] args) {
          System.out.println("Utilizando o git atraves do Netbeans 8.0.2");
+         int x = 10;
+         System.out.println("Segunda versão");
     }
     
 }
